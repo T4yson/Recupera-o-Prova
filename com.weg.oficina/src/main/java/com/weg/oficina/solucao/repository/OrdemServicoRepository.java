@@ -1,7 +1,7 @@
-package com.weg.oficina.repository;
+package com.weg.oficina.solucao.repository;
 
-import com.weg.oficina.model.OrdemServico;
-import com.weg.oficina.model.StatusOS;
+import com.weg.oficina.solucao.model.OrdemServico;
+import com.weg.oficina.solucao.model.StatusOS;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

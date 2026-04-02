@@ -1,7 +1,6 @@
-package com.weg.oficina.model;
+package com.weg.oficina.solucao.model;
 
 import jakarta.persistence.*;
-import jdk.jshell.Snippet;
 import lombok.Data;
 
 import java.util.ArrayList;

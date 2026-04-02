@@ -1,4 +1,4 @@
-package com.weg.oficina.model;
+package com.weg.oficina.solucao.model;
 
 public enum StatusOS {
     Aberto,

@@ -1,10 +1,11 @@
-package com.weg.oficina.service;
+package com.weg.oficina.solucao.service;
 
-import com.weg.oficina.model.OrdemServico;
-import com.weg.oficina.model.Perfil;
-import com.weg.oficina.model.Usuario;
-import com.weg.oficina.repository.OrdemServicoRepository;
-import com.weg.oficina.repository.UsuarioRepository;
+import com.weg.oficina.solucao.model.OrdemServico;
+import com.weg.oficina.solucao.model.Perfil;
+import com.weg.oficina.solucao.model.StatusOS;
+import com.weg.oficina.solucao.model.Usuario;
+import com.weg.oficina.solucao.repository.OrdemServicoRepository;
+import com.weg.oficina.solucao.repository.UsuarioRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
